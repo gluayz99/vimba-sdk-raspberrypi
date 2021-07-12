@@ -13,5 +13,5 @@ Setting up Vimba SDK
 2. Installing Vimba under Linux
   Vimba comes as a tarball. [To install it](https://cdn.alliedvision.com/fileadmin/content/documents/products/software/software/Vimba/appnote/Vimba_installation_under_Linux.pdf)
   
-Example code is in VimbaC, VimbaCPP, VimbaPython at [InstallDir]/Vimba_x_x/
+Get example code in VimbaC, VimbaCPP, VimbaPython at [InstallDir]/Vimba_x_x/
 ===============

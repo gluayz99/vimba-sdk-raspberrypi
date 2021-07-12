@@ -13,8 +13,9 @@ Setting up Vimba SDK
 2. Installing Vimba SDK
   Vimba comes as a tarball. To install it:
   1. Uncompress the archive to a directory you have writing privileges for, such as /opt:
-              tar -xzf ./Vimba.tgz -C /opt
+                      tar -xzf ./Vimba.tgz -C /opt
     In this directory, Vimba will be installed in its own folder. In this document, we refer to this path as [InstallDir].
-  2. GigE camera users: Go to [InstallDir]/Vimba_x_x/VimbaGigETL. USB camera users: Go to [InstallDir]/Vimba_x_x/VimbaUSBTL.
-  3. Execute the shell script Install.sh with root privileges (for example, sudo ./Install.sh or su -c.Install.sh).
+  2. GigE camera users: Go to [InstallDir]/Vimba_x_x/VimbaGigETL. 
+      USB camera users: Go to [InstallDir]/Vimba_x_x/VimbaUSBTL.
+  5. Execute the shell script Install.sh with root privileges (for example, sudo ./Install.sh or su -c.Install.sh).
     If you use GigE and USB cameras, perform this step for both TLs (transport layers).

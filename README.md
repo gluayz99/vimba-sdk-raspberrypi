@@ -1,5 +1,3 @@
-# vimba-sdk-raspberrypi
-
 Setting up Raspberry Pi (Recommend Raspberry Pi 4)
 ===============
 1. Install [Ubuntu Desktop 21.04](https://ubuntu.com/download/raspberry-pi) on a Raspberry Pi
